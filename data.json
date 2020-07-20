@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "username": "Shivi",
+    "name": "Shivi",
+    "password": "12345",
+    "createdAt": "2020-07-19T07:05:35.959Z",
+    "todoList": [
+      {
+        "id": 2,
+        "todo": "Going to market",
+        "isCompleted": false,
+        "createdAt": "2020-07-19T07:05:35.959Z",
+        "taskList": [
+          {
+            "id": 3,
+            "task": "buying clothes",
+            "isCompleted": true,
+            "createdAt": "2020-07-19T07:05:35.959Z"
+          },
+          {
+            "id": 4,
+            "task": "buying shoes",
+            "isCompleted": false,
+            "createdAt": "2020-07-19T07:05:35.959Z"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "todo": "Going to college",
+        "isCompleted": false,
+        "createdAt": "2020-07-19T07:05:35.959Z",
+        "taskList": [
+          {
+            "id": 6,
+            "task": "Practice Maths",
+            "isCompleted": true,
+            "createdAt": "2020-07-19T07:05:35.959Z"
+          },
+          {
+            "id": 7,
+            "task": "Reading Novels",
+            "isCompleted": false,
+            "createdAt": "2020-07-19T07:05:35.959Z"
+          }
+        ]
+      }
+    ]
+  }
+]

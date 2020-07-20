@@ -1,0 +1,52 @@
+Landing page
+sign in
+sign up
+add todo
+add task
+edit task
+mark as complete task and increment in completed task
+delete task
+edit todo
+mark as complete todo 
+delete todo
+search
+profile
+help
+sign out
+
+
+
+iteration - 0=>
+  Landing page
+  Sign in
+  sign up
+
+iteration - 1 => 
+  add todo
+  add task
+  edit task 
+  edit todo
+
+iteration - 2 =>
+  mark as complete task  and shift it to bottom .
+  delete task 
+  delete todo
+  
+
+iteration - 3 =>
+  profile
+  help 
+  sign out
+
+iteration - 4 =>
+  search 
+
+
+====================================DATA  MODELLING=====================================
+    Username 
+    Name
+    Password
+    todo 
+    task
+    Is completed ?
+     
