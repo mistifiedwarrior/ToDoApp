@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid black;
+}
+
+.title {
+  font-size: 50px;
+  padding: 10px 50px;
+  color: gray;
+}
+.links {
+  display: flex;
+  align-items: center;
+  padding-right: 50px;
+}
+
+.links a {
+  margin: 20px;
+  font-size: 24px;
+  text-decoration: none;
+  color: gray;
+}
+.main-content {
+  font-size: 60px;
+  text-align: center;
+  color: grey;
+  font-weight: bold;
+  margin: 200px 0;
+}
